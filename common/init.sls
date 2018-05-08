@@ -1,3 +1,3 @@
 include:
   - common.packages
-  - files.create-directory
+  - files.dir.create-directory
